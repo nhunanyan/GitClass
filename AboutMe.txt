@@ -1,0 +1,4 @@
+Name: Nina
+Role: Game Developer
+Favorite language: C#
+Learning: Git and GitHub
